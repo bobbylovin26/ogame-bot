@@ -1,0 +1,4 @@
+ogame-bot
+=========
+
+Ogame bot
